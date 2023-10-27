@@ -1,0 +1,5 @@
+﻿  baza_zadach.cpp
+C:\Users\user\source\repos\Project2\baza_zadach.cpp(16,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\baza_zadach.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Project2\baza_zadach.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\Debug\Project2.exe
