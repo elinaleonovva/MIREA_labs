@@ -1,0 +1,10 @@
+﻿  baza_zadach.cpp
+C:\Users\user\source\repos\Project2\MIREA_labs\baza_zadach.cpp(16,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  dop.cpp
+  lab_1_2_3.cpp
+  Sourse1.cpp
+  lab_4.cpp
+  Source2.cpp
+  lab_5.cpp
+  Создание кода...
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\MIREA_labs\x64\Debug\Project2.exe
