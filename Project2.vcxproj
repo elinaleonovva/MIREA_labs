@@ -141,11 +141,11 @@
   <ItemGroup>
     <ClCompile Include="baza_zadach.cpp" />
     <ClCompile Include="dop.cpp" />
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Source1.cpp" />
-    <ClCompile Include="Source11.cpp" />
+    <ClCompile Include="lab_1_2_3.cpp" />
+    <ClCompile Include="Sourse1.cpp" />
+    <ClCompile Include="lab_4.cpp" />
     <ClCompile Include="Source2.cpp" />
-    <ClCompile Include="Source31.cpp" />
+    <ClCompile Include="lab_5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="31.txt" />
